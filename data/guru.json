@@ -1,0 +1,577 @@
+{
+  "articles": [
+    {
+      "article_id": "ART001",
+      "title": "What is Bovine Colostrum?",
+      "slug": "what-is-bovine-colostrum",
+      "category": "Science & Ingredients",
+      "tags": ["colostrum", "bovine", "immune", "science"],
+      "summary": "An overview of bovine colostrum, its composition, and why PeakVital uses only Grade-A first-milking colostrum.",
+      "content": "Bovine colostrum is the first milk produced by cows in the 24-48 hours after birth. It is extraordinarily rich in immunoglobulins (IgG, IgA, IgM), lactoferrin, growth factors (IGF-1, TGF-β), and proline-rich polypeptides. PeakVital sources only Grade-A, first-milking colostrum collected within 6 hours of birth to maximize bioactive concentration. Unlike many competitors, PeakVital does not use heat treatments that denature these fragile proteins.",
+      "published_at": "2025-03-10",
+      "last_updated": "2026-09-01",
+      "author": "Dr. Priya Nair, PhD (Nutritional Biochemistry)",
+      "reading_time_min": 5,
+      "status": "published"
+    },
+    {
+      "article_id": "ART002",
+      "title": "Gut Health & Colostrum: The Mucosal Barrier",
+      "slug": "gut-health-colostrum-mucosal-barrier",
+      "category": "Science & Ingredients",
+      "tags": ["gut", "leaky gut", "mucosal barrier", "IgA", "tight junctions"],
+      "summary": "How colostrum's bioactives support tight-junction integrity and reinforce the gut mucosal layer.",
+      "content": "The gut lining renews itself roughly every 3-5 days. When tight junctions weaken—due to stress, alcohol, NSAIDs, or poor diet—permeability increases, commonly called 'leaky gut'. Secretory IgA in colostrum coats the mucosal surface, neutralizing pathogens before they breach the epithelium. Proline-rich polypeptides and growth factors like IGF-1 accelerate enterocyte repair. A 2023 randomized controlled trial (n=120) showed a 38% reduction in intestinal permeability markers (zonulin) after 8 weeks of 1.5 g/day bovine colostrum supplementation.",
+      "published_at": "2025-05-15",
+      "last_updated": "2026-08-20",
+      "author": "Dr. Priya Nair, PhD (Nutritional Biochemistry)",
+      "reading_time_min": 7,
+      "status": "published"
+    },
+    {
+      "article_id": "ART003",
+      "title": "Immune Resilience: IgG, Lactoferrin & PRPs",
+      "slug": "immune-resilience-igg-lactoferrin-prps",
+      "category": "Science & Ingredients",
+      "tags": ["immune", "IgG", "lactoferrin", "PRP", "inflammation"],
+      "summary": "A deep-dive into the three primary immune-modulating compounds found in PeakVital colostrum.",
+      "content": "IgG accounts for ~70% of all immunoglobulins in bovine colostrum and provides passive humoral immunity by binding and neutralizing pathogens. Lactoferrin is an iron-binding glycoprotein with broad-spectrum antimicrobial, antiviral, and anti-inflammatory activity; it also acts as a prebiotic, selectively feeding beneficial Lactobacillus strains. Proline-rich polypeptides (PRPs) are bi-directional immune regulators—upregulating immunity when suppressed, downregulating when overactive—making them relevant for both infection defence and autoimmune support.",
+      "published_at": "2025-07-22",
+      "last_updated": "2026-07-15",
+      "author": "Dr. Marcus Chen, MD",
+      "reading_time_min": 9,
+      "status": "published"
+    },
+    {
+      "article_id": "ART004",
+      "title": "Athletic Performance & Recovery",
+      "slug": "athletic-performance-recovery-colostrum",
+      "category": "Performance",
+      "tags": ["athlete", "IGF-1", "muscle", "recovery", "endurance"],
+      "summary": "How IGF-1 and growth factors in colostrum reduce exercise-induced gut permeability and support lean muscle recovery.",
+      "content": "High-intensity exercise transiently increases intestinal permeability by up to 200%, allowing bacterial endotoxins to enter the bloodstream and trigger systemic inflammation—a key driver of exercise fatigue. Colostrum's IGF-1 and TGF-β counteract this by maintaining mucosal integrity during and after training. Multiple meta-analyses show colostrum supplementation improves peak power output (+8-12%), VO₂max, and reduces post-exercise DOMS markers (CRP, IL-6). PeakVital recommends 2.5 g taken 30 minutes before training.",
+      "published_at": "2025-09-05",
+      "last_updated": "2026-09-10",
+      "author": "Dr. Marcus Chen, MD",
+      "reading_time_min": 8,
+      "status": "published"
+    },
+    {
+      "article_id": "ART005",
+      "title": "Skin Health & Collagen Support",
+      "slug": "skin-health-collagen-support",
+      "category": "Beauty & Skin",
+      "tags": ["skin", "collagen", "EGF", "anti-aging", "wound healing"],
+      "summary": "Epidermal growth factor (EGF) and IGF-1 in colostrum accelerate skin cell turnover and support structural collagen.",
+      "content": "Colostrum contains epidermal growth factor (EGF) at concentrations roughly 100× higher than human plasma. EGF binds to keratinocyte receptors to stimulate proliferation, accelerate wound healing, and support the skin barrier. IGF-1 promotes fibroblast activity, driving collagen and elastin synthesis. A 12-week pilot study demonstrated a statistically significant improvement in skin hydration (+22%), elasticity (+14%), and a reduction in fine lines (-11%) in women aged 35–55 taking 1.5 g/day.",
+      "published_at": "2025-11-18",
+      "last_updated": "2026-06-30",
+      "author": "Dr. Priya Nair, PhD (Nutritional Biochemistry)",
+      "reading_time_min": 6,
+      "status": "published"
+    },
+    {
+      "article_id": "ART006",
+      "title": "Sourcing & Quality Standards",
+      "slug": "sourcing-quality-standards",
+      "category": "Brand & Quality",
+      "tags": ["sourcing", "grass-fed", "non-GMO", "third-party testing", "cGMP"],
+      "summary": "PeakVital's end-to-end supply chain: USDA-certified grass-fed herds, cold-chain collection, and NSF-certified cGMP manufacturing.",
+      "content": "PeakVital partners exclusively with family-owned dairy farms in the Great Lakes region that maintain USDA Organic and Animal Welfare Approved certifications. Colostrum is collected within 6 hours post-calving, immediately chilled to ≤4°C, and transported in food-grade ISO-certified tankers. At our NSF Sport-certified cGMP facility, colostrum undergoes low-temperature spray drying (≤55°C) to preserve bioactivity, then microbial and heavy-metal testing via ISO 17025-accredited labs. Certificates of Analysis are published on our website for every production lot.",
+      "published_at": "2026-01-12",
+      "last_updated": "2026-10-01",
+      "author": "PeakVital Quality Assurance Team",
+      "reading_time_min": 5,
+      "status": "published"
+    },
+    {
+      "article_id": "ART007",
+      "title": "How to Take PeakVital: Dosing & Timing",
+      "slug": "how-to-take-peakvital-dosing-timing",
+      "category": "Usage & FAQ",
+      "tags": ["dosing", "usage", "fasting", "empty stomach", "timing"],
+      "summary": "Optimal protocols for taking PeakVital powder—including fasting windows, mixing tips, and what to avoid.",
+      "content": "For maximum absorption, take PeakVital on an empty stomach, ideally 20-30 minutes before breakfast or before exercise. Mix one scoop (1.5 g) in 4-6 oz of room-temperature water or low-acid juice—avoid hot liquids as temperatures above 60°C degrade IgG activity. Do not mix with coffee or acidic beverages. For therapeutic gut-repair protocols, some practitioners recommend 3 g/day (morning and evening doses) for the first 4 weeks, then tapering to a maintenance dose of 1.5 g/day.",
+      "published_at": "2026-02-28",
+      "last_updated": "2026-09-15",
+      "author": "PeakVital Scientific Advisory Board",
+      "reading_time_min": 4,
+      "status": "published"
+    },
+    {
+      "article_id": "ART008",
+      "title": "Is PeakVital Safe for Lactose-Intolerant Individuals?",
+      "slug": "lactose-intolerant-individuals-safety",
+      "category": "Usage & FAQ",
+      "tags": ["lactose", "dairy", "allergy", "safety", "tolerability"],
+      "summary": "Clarifying the lactose content of PeakVital and what those with dairy sensitivities should know.",
+      "content": "PeakVital colostrum powder contains <0.5% lactose per serving, significantly lower than whole milk (4.8%) or whey protein (varies). Most individuals with lactose intolerance tolerate colostrum well because the spray-dry process further reduces the lactose fraction. However, those with a diagnosed IgE-mediated cow's milk protein allergy (CMPA) should consult their allergist before use, as colostrum contains casein and whey proteins. PeakVital is not vegan. Each lot is tested for lactose content; results are available in our published CoA.",
+      "published_at": "2026-03-05",
+      "last_updated": "2026-08-01",
+      "author": "PeakVital Medical Affairs",
+      "reading_time_min": 3,
+      "status": "published"
+    },
+    {
+      "article_id": "ART009",
+      "title": "Colostrum vs. Whey Protein: What's the Difference?",
+      "slug": "colostrum-vs-whey-protein",
+      "category": "Science & Ingredients",
+      "tags": ["whey", "comparison", "protein", "immune", "gut"],
+      "summary": "Breaking down the key compositional and functional differences between colostrum and standard whey supplements.",
+      "content": "Whey protein is primarily a macronutrient delivery vehicle (20-25 g protein per serving), processed from the liquid byproduct of cheese-making and containing minimal bioactives. Bovine colostrum, by contrast, is collected pre-milk and is a concentrated matrix of immunoglobulins, growth factors, antimicrobial peptides, and cytokines—with comparatively lower protein density (~50-60% protein by weight at PeakVital's concentration). They serve different purposes: whey supports muscle protein synthesis; colostrum modulates immunity, repairs gut barrier integrity, and reduces inflammation. Many athletes stack both.",
+      "published_at": "2026-04-17",
+      "last_updated": "2026-09-20",
+      "author": "Dr. Marcus Chen, MD",
+      "reading_time_min": 6,
+      "status": "published"
+    },
+    {
+      "article_id": "ART010",
+      "title": "Colostrum & the Microbiome",
+      "slug": "colostrum-microbiome",
+      "category": "Science & Ingredients",
+      "tags": ["microbiome", "probiotics", "prebiotic", "lactoferrin", "dysbiosis"],
+      "summary": "How lactoferrin and PRPs in colostrum selectively feed beneficial bacteria and help correct dysbiosis.",
+      "content": "Lactoferrin acts as a selective prebiotic, reducing available free iron in the gut—a nutrient required by many pathogenic bacteria—while supporting the growth of Lactobacillus and Bifidobacterium species that thrive in low-iron environments. PRPs further regulate the innate immune response to commensal bacteria, reducing unnecessary inflammation from beneficial microbes. Pilot microbiome sequencing studies show that 12 weeks of colostrum supplementation significantly increases Shannon diversity index and raises Akkermansia muciniphila relative abundance, a keystone species associated with metabolic health and gut barrier integrity.",
+      "published_at": "2026-05-22",
+      "last_updated": "2026-10-05",
+      "author": "Dr. Priya Nair, PhD (Nutritional Biochemistry)",
+      "reading_time_min": 7,
+      "status": "published"
+    }
+  ],
+  "products": [
+    {
+      "product_id": "PROD001",
+      "name": "PeakVital Pure Colostrum Powder",
+      "sku": "PV-CP-100",
+      "category": "Core Supplement",
+      "form": "powder",
+      "serving_size_g": 1.5,
+      "servings_per_container": 60,
+      "price_usd": 69.00,
+      "subscription_price_usd": 55.20,
+      "igG_percent": 40,
+      "in_stock": true,
+      "certifications": ["NSF Sport", "USDA Organic", "Non-GMO Project Verified"],
+      "flavors": ["unflavored"],
+      "description": "Our flagship single-ingredient bovine colostrum powder. 40% IgG minimum, first-milking only, cold-processed."
+    },
+    {
+      "product_id": "PROD002",
+      "name": "PeakVital Colostrum Capsules",
+      "sku": "PV-CC-90",
+      "category": "Core Supplement",
+      "form": "capsule",
+      "serving_size_g": 1.5,
+      "servings_per_container": 30,
+      "capsules_per_serving": 3,
+      "price_usd": 64.00,
+      "subscription_price_usd": 51.20,
+      "igG_percent": 40,
+      "in_stock": true,
+      "certifications": ["NSF Sport", "USDA Organic", "Non-GMO Project Verified"],
+      "description": "Same pure formula as the powder, encapsulated in bovine gelatin for on-the-go convenience."
+    },
+    {
+      "product_id": "PROD003",
+      "name": "PeakVital Sport Bundle",
+      "sku": "PV-SB-01",
+      "category": "Bundle",
+      "form": "bundle",
+      "includes": ["PV-CP-100", "PV-CC-90"],
+      "price_usd": 119.00,
+      "subscription_price_usd": 95.20,
+      "in_stock": true,
+      "certifications": ["NSF Sport"],
+      "description": "Powder + Capsules bundle for athletes. Save 14% vs. individual purchase."
+    },
+    {
+      "product_id": "PROD004",
+      "name": "PeakVital Colostrum + Prebiotic Blend",
+      "sku": "PV-CPB-60",
+      "category": "Enhanced Formula",
+      "form": "powder",
+      "serving_size_g": 3.0,
+      "servings_per_container": 30,
+      "price_usd": 79.00,
+      "subscription_price_usd": 63.20,
+      "igG_percent": 30,
+      "prebiotic_blend_mg": 500,
+      "in_stock": true,
+      "certifications": ["NSF Certified for Sport", "Non-GMO Project Verified"],
+      "flavors": ["unflavored", "vanilla bean"],
+      "description": "Colostrum paired with a clinically dosed prebiotic blend (inulin + XOS) to amplify microbiome diversity."
+    },
+    {
+      "product_id": "PROD005",
+      "name": "PeakVital Travel Stick Packs",
+      "sku": "PV-TSP-30",
+      "category": "Core Supplement",
+      "form": "stick_pack",
+      "serving_size_g": 1.5,
+      "servings_per_container": 30,
+      "price_usd": 49.00,
+      "subscription_price_usd": 39.20,
+      "igG_percent": 40,
+      "in_stock": false,
+      "expected_restock_date": "2026-11-15",
+      "certifications": ["NSF Sport", "USDA Organic"],
+      "description": "Single-serve stick packs for travel. Currently out of stock; pre-order available."
+    }
+  ],
+  "customers": [
+    {
+      "customer_id": "CUS001",
+      "email": "alex.rivera@example.com",
+      "first_name": "Alex",
+      "last_name": "Rivera",
+      "segment": "athlete",
+      "loyalty_tier": "gold",
+      "subscription_active": true,
+      "subscribed_products": ["PV-CP-100"],
+      "lifetime_orders": 14,
+      "lifetime_spend_usd": 924.00,
+      "joined_date": "2024-11-03",
+      "last_order_date": "2026-10-01",
+      "preferred_contact": "email"
+    },
+    {
+      "customer_id": "CUS002",
+      "email": "marina.doss@example.com",
+      "first_name": "Marina",
+      "last_name": "Doss",
+      "segment": "wellness_general",
+      "loyalty_tier": "silver",
+      "subscription_active": false,
+      "subscribed_products": [],
+      "lifetime_orders": 5,
+      "lifetime_spend_usd": 335.00,
+      "joined_date": "2025-06-18",
+      "last_order_date": "2026-07-22",
+      "preferred_contact": "sms"
+    },
+    {
+      "customer_id": "CUS003",
+      "email": "james.kwon@example.com",
+      "first_name": "James",
+      "last_name": "Kwon",
+      "segment": "biohacker",
+      "loyalty_tier": "platinum",
+      "subscription_active": true,
+      "subscribed_products": ["PV-CP-100", "PV-CPB-60"],
+      "lifetime_orders": 28,
+      "lifetime_spend_usd": 2184.00,
+      "joined_date": "2024-03-07",
+      "last_order_date": "2026-10-10",
+      "preferred_contact": "email"
+    },
+    {
+      "customer_id": "CUS004",
+      "email": "priya.mehta@example.com",
+      "first_name": "Priya",
+      "last_name": "Mehta",
+      "segment": "gut_health",
+      "loyalty_tier": "bronze",
+      "subscription_active": false,
+      "subscribed_products": [],
+      "lifetime_orders": 2,
+      "lifetime_spend_usd": 138.00,
+      "joined_date": "2026-08-14",
+      "last_order_date": "2026-09-01",
+      "preferred_contact": "email"
+    },
+    {
+      "customer_id": "CUS005",
+      "email": "toni.walker@example.com",
+      "first_name": "Toni",
+      "last_name": "Walker",
+      "segment": "athlete",
+      "loyalty_tier": "gold",
+      "subscription_active": true,
+      "subscribed_products": ["PV-SB-01"],
+      "lifetime_orders": 11,
+      "lifetime_spend_usd": 1189.00,
+      "joined_date": "2024-09-22",
+      "last_order_date": "2026-10-05",
+      "preferred_contact": "sms"
+    },
+    {
+      "customer_id": "CUS006",
+      "email": "nora.hayes@example.com",
+      "first_name": "Nora",
+      "last_name": "Hayes",
+      "segment": "beauty",
+      "loyalty_tier": "silver",
+      "subscription_active": true,
+      "subscribed_products": ["PV-CC-90"],
+      "lifetime_orders": 7,
+      "lifetime_spend_usd": 462.00,
+      "joined_date": "2025-02-10",
+      "last_order_date": "2026-09-20",
+      "preferred_contact": "email"
+    }
+  ],
+  "orders": [
+    {
+      "order_id": "ORD10001",
+      "customer_id": "CUS001",
+      "order_date": "2026-10-01",
+      "status": "shipped",
+      "items": [
+        {"sku": "PV-CP-100", "quantity": 2, "unit_price_usd": 55.20}
+      ],
+      "subtotal_usd": 110.40,
+      "shipping_usd": 0.00,
+      "total_usd": 110.40,
+      "tracking_number": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "estimated_delivery": "2026-10-08",
+      "subscription_order": true
+    },
+    {
+      "order_id": "ORD10002",
+      "customer_id": "CUS003",
+      "order_date": "2026-10-10",
+      "status": "processing",
+      "items": [
+        {"sku": "PV-CP-100", "quantity": 1, "unit_price_usd": 55.20},
+        {"sku": "PV-CPB-60", "quantity": 1, "unit_price_usd": 63.20}
+      ],
+      "subtotal_usd": 118.40,
+      "shipping_usd": 0.00,
+      "total_usd": 118.40,
+      "tracking_number": null,
+      "carrier": null,
+      "estimated_delivery": "2026-10-17",
+      "subscription_order": true
+    },
+    {
+      "order_id": "ORD10003",
+      "customer_id": "CUS002",
+      "order_date": "2026-07-22",
+      "status": "delivered",
+      "items": [
+        {"sku": "PV-CC-90", "quantity": 1, "unit_price_usd": 64.00}
+      ],
+      "subtotal_usd": 64.00,
+      "shipping_usd": 5.99,
+      "total_usd": 69.99,
+      "tracking_number": "9400111899223394149418",
+      "carrier": "USPS",
+      "estimated_delivery": "2026-07-28",
+      "subscription_order": false
+    },
+    {
+      "order_id": "ORD10004",
+      "customer_id": "CUS004",
+      "order_date": "2026-09-01",
+      "status": "delivered",
+      "items": [
+        {"sku": "PV-CP-100", "quantity": 1, "unit_price_usd": 69.00}
+      ],
+      "subtotal_usd": 69.00,
+      "shipping_usd": 0.00,
+      "total_usd": 69.00,
+      "tracking_number": "1Z999AA10123488001",
+      "carrier": "UPS",
+      "estimated_delivery": "2026-09-06",
+      "subscription_order": false
+    },
+    {
+      "order_id": "ORD10005",
+      "customer_id": "CUS005",
+      "order_date": "2026-10-05",
+      "status": "shipped",
+      "items": [
+        {"sku": "PV-SB-01", "quantity": 1, "unit_price_usd": 95.20}
+      ],
+      "subtotal_usd": 95.20,
+      "shipping_usd": 0.00,
+      "total_usd": 95.20,
+      "tracking_number": "1Z999AA10198765432",
+      "carrier": "UPS",
+      "estimated_delivery": "2026-10-12",
+      "subscription_order": true
+    },
+    {
+      "order_id": "ORD10006",
+      "customer_id": "CUS006",
+      "order_date": "2026-09-20",
+      "status": "delivered",
+      "items": [
+        {"sku": "PV-CC-90", "quantity": 1, "unit_price_usd": 51.20}
+      ],
+      "subtotal_usd": 51.20,
+      "shipping_usd": 0.00,
+      "total_usd": 51.20,
+      "tracking_number": "9400111899223401239812",
+      "carrier": "USPS",
+      "estimated_delivery": "2026-09-25",
+      "subscription_order": true
+    }
+  ],
+  "reviews": [
+    {
+      "review_id": "REV001",
+      "customer_id": "CUS001",
+      "product_sku": "PV-CP-100",
+      "rating": 5,
+      "headline": "Noticeable difference in gut and recovery",
+      "body": "I've been taking PeakVital every morning before training for 4 months. Fewer GI issues during long runs and my recovery time is legitimately better. The powder dissolves quickly and has zero taste.",
+      "verified_purchase": true,
+      "submitted_at": "2026-09-15",
+      "helpful_votes": 42
+    },
+    {
+      "review_id": "REV002",
+      "customer_id": "CUS002",
+      "product_sku": "PV-CC-90",
+      "rating": 4,
+      "headline": "Good product, capsule count per serving is high",
+      "body": "3 capsules per serving is a lot to swallow at once but I understand it's a dosing constraint. Skin looks better after 6 weeks, which I wasn't expecting. Will try the powder next.",
+      "verified_purchase": true,
+      "submitted_at": "2026-08-10",
+      "helpful_votes": 18
+    },
+    {
+      "review_id": "REV003",
+      "customer_id": "CUS003",
+      "product_sku": "PV-CP-100",
+      "rating": 5,
+      "headline": "Stack with prebiotics — game changer",
+      "body": "Been using the Pure Powder and the Prebiotic Blend for 3 months. Zonulin test dropped noticeably. As someone who tracks biomarkers religiously this is the real deal. Sourcing transparency is excellent.",
+      "verified_purchase": true,
+      "submitted_at": "2026-10-08",
+      "helpful_votes": 67
+    },
+    {
+      "review_id": "REV004",
+      "customer_id": "CUS005",
+      "product_sku": "PV-SB-01",
+      "rating": 5,
+      "headline": "Perfect for travelling athletes",
+      "body": "Bundle makes it easy to take capsules to competitions and use powder at home. Immune system has been solid through a brutal race season.",
+      "verified_purchase": true,
+      "submitted_at": "2026-09-28",
+      "helpful_votes": 31
+    },
+    {
+      "review_id": "REV005",
+      "customer_id": "CUS006",
+      "product_sku": "PV-CC-90",
+      "rating": 4,
+      "headline": "Skin hydration improvement is real",
+      "body": "Started taking capsules for skin health. Two months in, my dermatologist noticed improved barrier function without me mentioning supplements. Subtle but measurable.",
+      "verified_purchase": true,
+      "submitted_at": "2026-09-12",
+      "helpful_votes": 24
+    },
+    {
+      "review_id": "REV006",
+      "customer_id": "CUS004",
+      "product_sku": "PV-CP-100",
+      "rating": 3,
+      "headline": "Too early to tell",
+      "body": "Only been using for 3 weeks. Haven't noticed dramatic changes yet. Will update after 8 weeks. Packaging is excellent and CoA transparency is appreciated.",
+      "verified_purchase": true,
+      "submitted_at": "2026-09-22",
+      "helpful_votes": 5
+    }
+  ],
+  "support_tickets": [
+    {
+      "ticket_id": "TKT001",
+      "customer_id": "CUS002",
+      "subject": "Wondering about lactose content for my sensitivity",
+      "category": "product_question",
+      "status": "resolved",
+      "priority": "normal",
+      "created_at": "2026-07-15",
+      "resolved_at": "2026-07-16",
+      "channel": "email",
+      "messages": [
+        {
+          "from": "customer",
+          "timestamp": "2026-07-15T10:22:00Z",
+          "body": "Hi, I'm lactose intolerant. Is PeakVital safe for me to try?"
+        },
+        {
+          "from": "support",
+          "timestamp": "2026-07-16T09:05:00Z",
+          "body": "Great question! PeakVital contains <0.5% lactose per serving, which most lactose-intolerant individuals tolerate well. We recommend starting with half a scoop to assess your tolerance. If you have a diagnosed cow's milk protein allergy (CMPA), please consult your allergist first."
+        }
+      ]
+    },
+    {
+      "ticket_id": "TKT002",
+      "customer_id": "CUS001",
+      "subject": "Order hasn't arrived — ORD10001",
+      "category": "shipping",
+      "status": "open",
+      "priority": "high",
+      "created_at": "2026-10-09",
+      "resolved_at": null,
+      "channel": "chat",
+      "messages": [
+        {
+          "from": "customer",
+          "timestamp": "2026-10-09T14:30:00Z",
+          "body": "My order ORD10001 shipped on 10/1 but tracking hasn't updated in 5 days. EDD was 10/8."
+        },
+        {
+          "from": "support",
+          "timestamp": "2026-10-09T15:00:00Z",
+          "body": "I'm sorry to hear that! I've escalated this to our fulfillment team and opened a UPS investigation. We'll update you within 24-48 hours. If UPS cannot locate the package, we'll reship at no charge."
+        }
+      ]
+    },
+    {
+      "ticket_id": "TKT003",
+      "customer_id": "CUS004",
+      "subject": "Can I stack colostrum with my current probiotics?",
+      "category": "product_question",
+      "status": "resolved",
+      "priority": "normal",
+      "created_at": "2026-08-20",
+      "resolved_at": "2026-08-21",
+      "channel": "email",
+      "messages": [
+        {
+          "from": "customer",
+          "timestamp": "2026-08-20T08:10:00Z",
+          "body": "I take Lactobacillus rhamnosus GG and Bifidobacterium longum daily. Is it safe to add colostrum?"
+        },
+        {
+          "from": "support",
+          "timestamp": "2026-08-21T10:20:00Z",
+          "body": "Absolutely — colostrum stacks very well with both strains. Lactoferrin in colostrum acts as a prebiotic that selectively feeds Lactobacillus and Bifidobacterium species, so it can actually enhance the efficacy of your probiotic regimen. We suggest taking colostrum in the morning on an empty stomach and your probiotics later in the day."
+        }
+      ]
+    },
+    {
+      "ticket_id": "TKT004",
+      "customer_id": "CUS003",
+      "subject": "Request for bulk/wholesale pricing",
+      "category": "wholesale",
+      "status": "in_progress",
+      "priority": "normal",
+      "created_at": "2026-10-07",
+      "resolved_at": null,
+      "channel": "email",
+      "messages": [
+        {
+          "from": "customer",
+          "timestamp": "2026-10-07T11:45:00Z",
+          "body": "I run a functional medicine practice with ~40 patients I'd like to recommend PeakVital to. Do you have practitioner or wholesale pricing?"
+        },
+        {
+          "from": "support",
+          "timestamp": "2026-10-08T09:30:00Z",
+          "body": "Thank you for reaching out! We do have a Practitioner Program offering 25% off retail, co-branded educational materials, and a dedicated account manager. I'm connecting you with our Practitioner Partnerships team — expect a follow-up within 2 business days."
+        }
+      ]
+    }
+  ]
+}

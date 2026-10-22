@@ -1,0 +1,8 @@
+display_information:
+  name: PeakVital Guru (Mock)
+  description: Mock Guru knowledge base for PeakVital — a U.S.-based premium bovine colostrum wellness brand. Exposes KB articles, product catalog, customer data, orders, reviews, and support tickets to Slack AI.
+
+settings:
+  org_deploy_enabled: false
+  socket_mode_enabled: false
+  token_rotation_enabled: false
